@@ -63,8 +63,8 @@ const fieldData = [
 function App() {
   return (
     <div className="container">
-      <div className="form-wrapper">
-        <h1 className="form-heading">Vendor Form</h1>
+      <div className="form-wrapper py-20">
+        <h1 className="text-3xl text-center mb-6">Vendor Form</h1>
         <DynamicForm fields={fieldData} />
       </div>
     </div>
