@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  max-width: 1200px;
+  margin: auto;
+  padding-inline: 15px;
+}
+
+.form-wrapper{
+  max-width: 600px;
+  margin: auto;
+  padding-block: 5rem;
+}
+
+.form-heading{
+  text-align: center;
+  margin-bottom: 30px;
+}
